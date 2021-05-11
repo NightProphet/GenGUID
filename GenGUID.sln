@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{BFA5B81D-EBB7-402F-B0C8-45A3DAE97ABF}") = "GenGUID", "GenGUID\GenGUID.csproj", "{ED71D9DC-297F-45DC-861E-96777DC86021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED71D9DC-297F-45DC-861E-96777DC86021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED71D9DC-297F-45DC-861E-96777DC86021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED71D9DC-297F-45DC-861E-96777DC86021}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{ED71D9DC-297F-45DC-861E-96777DC86021}.Debug|x64.Build.0 = Debug|Any CPU
+		{ED71D9DC-297F-45DC-861E-96777DC86021}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ED71D9DC-297F-45DC-861E-96777DC86021}.Debug|x86.Build.0 = Debug|Any CPU
+		{ED71D9DC-297F-45DC-861E-96777DC86021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED71D9DC-297F-45DC-861E-96777DC86021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED71D9DC-297F-45DC-861E-96777DC86021}.Release|x64.ActiveCfg = Release|Any CPU
+		{ED71D9DC-297F-45DC-861E-96777DC86021}.Release|x64.Build.0 = Release|Any CPU
+		{ED71D9DC-297F-45DC-861E-96777DC86021}.Release|x86.ActiveCfg = Release|Any CPU
+		{ED71D9DC-297F-45DC-861E-96777DC86021}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02E624C8-C7E4-418A-BDC7-BB9EC2FD0F12}
+	EndGlobalSection
+EndGlobal
